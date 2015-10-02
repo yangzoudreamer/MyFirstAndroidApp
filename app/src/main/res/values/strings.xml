@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">MyApp_1510</string>
 
-    <string name="hello_world">Hello world!</string>
+    <!--<string name="hello_world">Hello world!</string>-->
     <string name="action_settings">Settings</string>
+
+    <string name="hell0_world">我是一个TEXTILE,我是一个TEXTILE,我们都是一个TEXTILE，啦啦啦啦啦</string>
+
 </resources>
